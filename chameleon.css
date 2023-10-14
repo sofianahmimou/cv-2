@@ -1,0 +1,69 @@
+body {
+     background-color:whitesmoke;
+}
+.sign-up{
+     width: 420px;
+     background-color:black;
+     color: greenyellow;
+     border: none;
+     height: 60px;
+     border-radius: 30px;
+     font-weight: bold;
+     font-size: x-large;
+     cursor: pointer;
+}
+::placeholder {
+     color: white;
+     font-size:small;
+     font-family: sans-serif;
+     font-weight: 100;
+
+}
+.details{
+     margin-right:10px;
+     color: white;
+     border-radius: 2px;
+     width:200px;
+     font-style:inherit;
+     height: 42px;
+     font-weight:120;
+     border: none;
+     background-color:black;
+     cursor: pointer;
+
+}
+h1 {
+     font-family: sans-serif;
+     font-weight: 120;
+     font-size:2cm
+}
+h4 {
+     font-family: sans-serif;
+     font-weight: 120;
+     font-size:0.8cm;
+}
+.th-1{
+     text-align: left;
+     font-family: Sans-serif;
+     font-weight:120;
+}
+.th-2 {
+     background-color:black;
+     text-align:right;
+     font-size: medium;
+     border-radius: 2px;
+     border: none;
+     height:40px;
+     width:200px;
+     font-weight: bold;
+     color:greenyellow;
+     font-size:medium;
+     text-align:center;
+     margin-left: 1000px;
+}
+p {
+     text-align:center;
+     font-family: sans-serif;
+     font-weight: 120;
+     cursor: pointer;
+}
